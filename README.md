@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 
 GIF created with [Recordit](http://g.recordit.co/hJVZoSbp8u.gif).
-
+<img src='http://g.recordit.co/hJVZoSbp8u.gif' title='GIF Walkthrough' width='250' />
 ## Notes
 
 Describe any challenges encountered while building the app.
